@@ -10,6 +10,7 @@
 - [3/23](https://github.com/sepmein/covid-19-measures/blob/master/3%E6%9C%8823%E6%97%A5.md)
 - [3/24](https://github.com/sepmein/covid-19-measures/blob/master/3%E6%9C%8824%E6%97%A5.md)
 - [3/25](https://github.com/sepmein/covid-19-measures/blob/master/3%E6%9C%8825%E6%97%A5.md)
+- [3/26](https://github.com/sepmein/covid-19-measures/blob/master/3%E6%9C%8826%E6%97%A5.md)
 
 数据来源：
 
